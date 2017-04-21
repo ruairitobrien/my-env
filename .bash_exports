@@ -1,0 +1,7 @@
+# Special Spotify Android stuff
+export ANDROID_HOME=/Users/$USER/.vulcan/cache/android-sdk-r25.2.1-spotify1-macosx.zip-8a1732234ede0ccc4191f5dbc1e3509d3b0c5b68/extracted/sdk
+export ANDROID_NDK=$ANDROID_HOME/ndk-bundle
+# Always with the maven
+export NVM_DIR="/Users/$USER/.nvm"
+# At least there's gradle in there somewhere
+export DAILY_GRADLE_RESTART=1

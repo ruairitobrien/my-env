@@ -1,0 +1,9 @@
+# Andrid SDK stuff
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+# Apollo tools
+export PATH=$PATH:~/Dev/apollo-tools/bin
+# Some tool on my machine pulled from a repo. bin isn't recursive :(
+export PATH=$PATH:~/bin/tools
+# I use yarn for my node dependencies
+export PATH="$HOME/.yarn/bin:$PATH"
