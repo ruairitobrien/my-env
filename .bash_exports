@@ -3,3 +3,10 @@ export ANDROID_NDK=$ANDROID_HOME/ndk-bundle
 export NVM_DIR="/Users/$USER/.nvm"
 # At least there's gradle in there somewhere
 export DAILY_GRADLE_RESTART=1
+
+# tiny-care-terminal config
+export TTC_BOTS='tinycarebot,selfcare_bot,magicrealismbot'
+export TTC_REPOS='~/Dev'
+export TTC_WEATHER='Stockholm'
+export TTC_APIKEYS=false
+
